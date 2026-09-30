@@ -1,6 +1,6 @@
 # Lai Yuan
 
-I am an undergraduate student at the School of Mathematical Sciences, Peking University.
+Undergraduate student, School of Mathematical Sciences, Peking University.
 
 **Email:** [2300010728@stu.pku.edu.cn](mailto:2300010728@stu.pku.edu.cn)
 
