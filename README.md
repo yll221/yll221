@@ -1,16 +1,14 @@
-## Hi there 👋
+# Lai Yuan
 
-<!--
-**yll221/yll221** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am an undergraduate student at the School of Mathematical Sciences, Peking University.
 
-Here are some ideas to get you started:
+**Email:** [2300010728@stu.pku.edu.cn](mailto:2300010728@stu.pku.edu.cn)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Honors and Awards
+
+| Year | Competition | Award |
+| --- | --- | --- |
+| 2023 | European Girls' Mathematical Olympiad (EGMO) | Gold Medal, 1st place, perfect score |
+| 2022 | Chinese Mathematical Olympiad (CMO) | Gold Medal |
+| 2022 | China Girls' Mathematical Olympiad (CGMO) | Gold Medal, 1st place |
+| 2021 | Chinese Mathematical Olympiad (CMO) | Silver Medal |
